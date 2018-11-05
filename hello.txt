@@ -6,3 +6,6 @@ AAAAAAAAAAAAAAAAAAAA
 aaaaaaaaaaa
 sddasdadasd
 dsadasdsadsad
+
+add soe comtent to hello.xttx
+112121
